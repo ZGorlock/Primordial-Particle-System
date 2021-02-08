@@ -5,8 +5,7 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Primordial Particle System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Primordial Particle System.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/NeighborState.class" beforeDir="false" />
@@ -45,6 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -54,6 +54,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1oAvJhhVmWxurqJD3UWaeVHNKCx" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -136,6 +139,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="3247" y="193" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612742192065">
       <screen x="2560" y="0" width="2048" height="1152" />
@@ -154,6 +168,10 @@
     </state>
     <state x="377" y="27" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1152@0.0.2048.1112" timestamp="1612742159437" />
     <state x="2937" y="28" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742342868" />
+    <state x="3362" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612742597116">
+      <screen x="2560" y="0" width="2048" height="1152" />
+    </state>
+    <state x="3362" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742597116" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
