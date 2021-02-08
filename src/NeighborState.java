@@ -1,9 +1,8 @@
 /*
  * File:    NeighborState.java
- * Package: PACKAGE_NAME
+ * Package:
  * Author:  Zachary Gill
  */
-
 
 /**
  * Defines a neighbor state.

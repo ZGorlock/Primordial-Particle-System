@@ -1,6 +1,6 @@
 /*
  * File:    ParticleState.java
- * Package: 
+ * Package:
  * Author:  Zachary Gill
  */
 
@@ -30,7 +30,7 @@ public class ParticleState {
     
     /**
      * The constructor for a Particle State.
-     * 
+     *
      * @param particleCount  The number of Particles.
      * @param centerCount    The number of additional Particles to start in the center of the screen.
      * @param size           The size of a Particle.
@@ -74,7 +74,7 @@ public class ParticleState {
     
     /**
      * Renders the Particle State.
-     * 
+     *
      * @param g The render screen.
      */
     public void render(Graphics2D g) {
@@ -85,7 +85,7 @@ public class ParticleState {
     
     /**
      * Returns the number of neighbors of a Particle.
-     * 
+     *
      * @return The number of neighbors of a Particle.
      */
     public NeighborState getNeighbors(Particle particle) {
@@ -108,7 +108,7 @@ public class ParticleState {
     
     /**
      * Determines the side of the orientation that a neighbor is on.
-     * 
+     *
      * @param particle The Particle.
      * @param neighbor The neighbor.
      * @return 1 if the neighbor is on the left, -1 if it is on the right, 0 if it is on the orientation.
@@ -159,7 +159,7 @@ public class ParticleState {
     
     /**
      * Returns a random position on the screen.
-     * 
+     *
      * @return A random position on the screen.
      */
     private Point getRandomPosition() {

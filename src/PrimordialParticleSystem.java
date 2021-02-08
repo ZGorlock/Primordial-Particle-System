@@ -1,12 +1,9 @@
 /*
  * File:    PrimordialParticleSystem.java
- * Package: 
+ * Package:
  * Author:  Zachary Gill
  */
 
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.WindowConstants;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
@@ -16,6 +13,9 @@ import java.awt.image.BufferedImage;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.atomic.AtomicBoolean;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.WindowConstants;
 
 /**
  * The renderer for the Primordial Particle System.
@@ -46,7 +46,7 @@ public class PrimordialParticleSystem {
     public static final int FPS = 1;
     
     /**
-     * The particle state. 
+     * The particle state.
      */
     public static ParticleState particles;
     
@@ -75,9 +75,9 @@ public class PrimordialParticleSystem {
         pane.setLayout(new BorderLayout());
         frame.setFocusable(true);
         frame.setFocusTraversalKeysEnabled(false);
-    
-        JPanel renderPanel = new JPanel() {
         
+        JPanel renderPanel = new JPanel() {
+            
             public void paintComponent(Graphics g) {
                 Graphics2D g2 = (Graphics2D) g;
                 g2.setColor(Color.BLACK);
@@ -87,19 +87,19 @@ public class PrimordialParticleSystem {
                 particles.step();
                 particles.move();
                 particles.render(g2);
-            
+                
                 g2.drawImage(img, 0, 0, null);
             }
         };
         pane.add(renderPanel, BorderLayout.CENTER);
-    
+        
         frame.setSize(screenX, screenY);
         frame.setVisible(true);
-    
+        
         Timer renderTimer = new Timer();
         renderTimer.scheduleAtFixedRate(new TimerTask() {
             private AtomicBoolean rendering = new AtomicBoolean(false);
-        
+            
             @Override
             public void run() {
                 if (rendering.compareAndSet(false, true)) {

@@ -1,13 +1,11 @@
 /*
  * File:    Particle.java
- * Package: 
+ * Package:
  * Author:  Zachary Gill
  */
 
 import java.awt.Color;
 import java.awt.Graphics2D;
-
-import javafx.scene.shape.Circle;
 
 /**
  * Defines a particle.
@@ -71,7 +69,7 @@ public class Particle {
     
     /**
      * The constructor for a Particle.
-     * 
+     *
      * @param state       The Particle State of the Particle.
      * @param position    The position of the Particle.
      * @param orientation The orientation of the Particle.
@@ -88,7 +86,7 @@ public class Particle {
         this.velocity = velocity * size;
         this.rotation = rotation;
         this.turn = turn;
-    
+        
         heading.x = Math.cos(orientation);
         heading.y = Math.sin(orientation);
     }
@@ -153,7 +151,7 @@ public class Particle {
     
     /**
      * Returns the position of the Particle.
-     * 
+     *
      * @return The position of the Particle.
      */
     public Point getPosition() {
@@ -162,7 +160,7 @@ public class Particle {
     
     /**
      * Returns the heading of the Particle.
-     * 
+     *
      * @return The heading of the Particle.
      */
     public Point getHeading() {

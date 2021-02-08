@@ -1,9 +1,8 @@
 /*
  * File:    Point.java
- * Package: 
+ * Package:
  * Author:  Zachary Gill
  */
-
 
 /**
  * Defines a point.
