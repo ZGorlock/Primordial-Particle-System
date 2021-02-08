@@ -1,94 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17c99cb2-19b5-4a7e-bc07-f3db82fcbf97" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="17c99cb2-19b5-4a7e-bc07-f3db82fcbf97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primordial Particle System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Primordial Particle System.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/NeighborState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/Particle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/ParticleState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/PrimordialParticleSystem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/PrimordialParticleSystem$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primordial Particle System/PrimordialParticleSystem.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="921846231">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="6074" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6074" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrimordialParticleSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348">
-              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#148#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#1839#2396#0" expanded="true" />
-                <element signature="e#2395#2396#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ParticleState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#126#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#5139#5140#0" expanded="true" />
-                <element signature="e#5189#5190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Particle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="128" column="86" lean-forward="true" selection-start-line="128" selection-start-column="86" selection-end-line="128" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3521#3522#0" expanded="true" />
-                <element signature="e#3552#3553#0" expanded="true" />
-                <element signature="e#3701#3702#0" expanded="true" />
-                <element signature="e#3731#3732#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,74 +43,33 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Point.java" />
-        <option value="$PROJECT_DIR$/src/NeighborState.java" />
-        <option value="$PROJECT_DIR$/src/ParticleState.java" />
-        <option value="$PROJECT_DIR$/src/PrimordialParticleSystem.java" />
-        <option value="$PROJECT_DIR$/src/Particle.java" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2551" />
-    <option name="y" value="-9" />
-    <option name="width" value="2578" />
-    <option name="height" value="1458" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Primordial Particle System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Primordial Particle System" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Primordial Particle System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Primordial Particle System" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Primordial Particle System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1oAvJhhVmWxurqJD3UWaeVHNKCx" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548463849856" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Coding/JAVA" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21789473" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Coding\Java\Primordial Particle System" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -202,12 +93,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -215,11 +108,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -243,156 +136,34 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="2551" y="-9" width="2578" height="1458" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979919" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299578" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31711274" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36877638" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="3247" y="193" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612742192065">
+      <screen x="2560" y="0" width="2048" height="1152" />
+    </state>
+    <state x="3247" y="193" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742192065" />
+    <state x="3147" y="102" key="CommitChangelistDialog2" timestamp="1612742467283">
+      <screen x="2560" y="0" width="2048" height="1152" />
+    </state>
+    <state x="3147" y="102" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742467283" />
+    <state x="3280" y="220" key="RollbackChangesDialog" timestamp="1612742480971">
+      <screen x="2560" y="0" width="2048" height="1152" />
+    </state>
+    <state x="3280" y="220" key="RollbackChangesDialog/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742480971" />
+    <state x="2937" y="28" key="SettingsEditor" timestamp="1612742342868">
+      <screen x="2560" y="0" width="2048" height="1152" />
+    </state>
+    <state x="377" y="27" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1152@0.0.2048.1112" timestamp="1612742159437" />
+    <state x="2937" y="28" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1152@2560.0.2048.1152" timestamp="1612742342868" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ParticleState.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ParticleState.java</url>
           <line>97</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NeighborState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParticleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#126#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#5139#5140#0" expanded="true" />
-            <element signature="e#5189#5190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimordialParticleSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#148#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1839#2396#0" expanded="true" />
-            <element signature="e#2395#2396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Particle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="128" column="86" lean-forward="true" selection-start-line="128" selection-start-column="86" selection-end-line="128" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3521#3522#0" expanded="true" />
-            <element signature="e#3552#3553#0" expanded="true" />
-            <element signature="e#3701#3702#0" expanded="true" />
-            <element signature="e#3731#3732#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.21789473" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
